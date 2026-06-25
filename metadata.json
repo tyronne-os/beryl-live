@@ -1,0 +1,6 @@
+{
+  "name": "Beryl Live",
+  "description": "Live Conversational AI Avatars. We need to have a face to face.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
